@@ -44,4 +44,8 @@
 *.app
 
 # debug information files
+<<<<<<< HEAD
 *.dwo
+=======
+*.dwo
+>>>>>>> 7d939134cc7a5bf2ea3378b5019066e26e048c3e
